@@ -1,0 +1,2 @@
+# guide
+Astrokings quick guide
