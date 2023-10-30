@@ -51,7 +51,7 @@ Advantages of Cannons:
 Highest attack power among the four weapon types.
 Benefits more from rate of fire improvements, delivering high burst damage in rapid-fire mode.
 Can utilize the excellent flagship Horus for dimension conquest.
-#NOTE# For me personally dont get horus, get hecate instead its better than horus, horus are mediocre
+#NOTE# For me personally dont get horus, get hecate/fenris instead its better than horus, horus are mediocre
  
 Disadvantages of Cannons:
 
@@ -60,8 +60,8 @@ Unable to use fast defense formations.
 Requires significant investment for the development of Flagships like Triglaph and Ravana-C if you want to use them in PvP battles.
 While Cannons are more specialized and peaky, they offer explosive power and are suitable for beginners to intermediate players.
 
-Both weapon types have their merits, but I recommend Cannons for free-to-play players for several reasons. One of the main reasons is the synergy with Hecate, which is readily available to free-to-play players and excels in dimension conquest. If you focus on Cannon as your main weapon, you can also consider T6 promotions.
+Both weapon types have their merits, but I recommend Cannons for free-to-play players for several reasons. One of the main reasons is the synergy with Hecate/fenris, which is readily available to free-to-play players and excels in dimension conquest. If you focus on Cannon as your main weapon, you can also consider T6 promotions.
 
-As free-to-play players may not have the resources to develop multiple Flagships, it's recommended to concentrate on Horus if you're choosing a single Flagship to develop. Before acquiring multiple Flagship heroes for PvP battles, prioritizing ship enhancement is essential. To ensure smooth dimension conquest, a Cannon-centric enhancement strategy with Hecate as the Flagship is a rational choice."
+As free-to-play players may not have the resources to develop multiple Flagships, it's recommended to concentrate on Horus/fenris/hecate if you're choosing a single Flagship to develop. Before acquiring multiple Flagship heroes for PvP battles, prioritizing ship enhancement is essential. To ensure smooth dimension conquest, a Cannon-centric enhancement strategy with Hecate as the Flagship is a rational choice."
 
 
